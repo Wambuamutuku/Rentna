@@ -12,7 +12,7 @@
     <title>Document</title>
 </head>
 <body>
-    <p>this is the login product-badge</p>
+    
     
 </body>
 </html>
